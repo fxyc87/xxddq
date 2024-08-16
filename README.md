@@ -1,5 +1,5 @@
-#注意：本项目来源于【https://www.amobbs.com/thread-5768213-1-1.html】
-#这里不是原作者的GIT
+##注意：本项目来源于 https://www.amobbs.com/thread-5768213-1-1.html
+##这里不是原作者的GIT 这里似乎是smset的仓库 https://github.com/smset028/xxddq
 最新版本：1.2.3，支持两种方式（Switch和SetJmp），支持8/16/32位单片机
 
 小小调度器是一种轻量级的、高效的、可移植的C语言调度器。它由作者“smset”开发，并且被“Gthgth”整理说明。小小调度器特别适合在资源受限的嵌入式系统中使用，如51单片机等，但其设计的通用性确保了几乎可以在任何支持C语言的CPU上移植和使用。
